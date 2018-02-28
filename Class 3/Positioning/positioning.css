@@ -1,0 +1,43 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.fixed {
+    background-color: #eee;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    padding-top: 25px;
+    top: 0%;
+    position: fixed;
+  }
+  
+.boxes{
+    position:relative;
+ } 
+
+.relative{
+    background-color: #eee;
+    width: auto;
+    height: 200px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.absolute{
+    background-color: #999;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    padding-top: 25px;
+    bottom: 0%;
+    right: -5%;
+    position: absolute;
+}
