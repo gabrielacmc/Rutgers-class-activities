@@ -1,0 +1,14 @@
+#one:hover{
+    background: turquoise;
+    color: blue;
+}
+
+#two:hover{
+    background: orange;
+    color: purple;
+}
+
+#three:active{
+    color: green;
+}
+

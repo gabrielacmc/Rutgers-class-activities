@@ -1,0 +1,25 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+
+
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+
+.thought1{
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.thought2{
+    font-family: 'Slabo 27px', serif;
+
+}
+
+.thought3{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+}
